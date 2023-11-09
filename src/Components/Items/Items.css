@@ -1,0 +1,23 @@
+.Item{
+    width : 350px;
+    
+}
+
+.Item p{
+    margin: 6px , 0px;
+}
+
+/* 46.27 */
+.Item-price{
+    color : grey;
+    font-size: 18px;
+}
+
+.Item:hover{
+    transform: scale(1.05);
+    transition: 0.6s;
+}
+.Item img{
+    height: 150px;
+    width: 120px;
+}

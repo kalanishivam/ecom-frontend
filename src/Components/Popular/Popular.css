@@ -1,0 +1,23 @@
+.popular{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 90vh;
+    gap : 10px;
+}
+.popular-in-women{
+    display: flex;
+    background: linear-gradient(180deg,#f1a1c1, #fffcff  60%);
+}
+
+.popular h1{
+    margin-bottom: 20px;
+    font-size: 45px;
+}
+
+.popular hr{
+    width: 200px;
+    height: 6px;
+    border-radius: 10px;
+    background: #252525;
+}
